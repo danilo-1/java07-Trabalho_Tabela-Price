@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27 de mar. de 2021, 02:30:09
+    Author     : usuário
+*/
+body{
+    
+    background: #2C3E50 ;
+   height: auto; 
+   
+    
+}
+section{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width:1040px;
+    
+}
+form{
+    border:solid;
+    border-color: #2C3E50 ;
+    border-radius: 5px;
+    background: #D6DBDF ;
+    padding: 10px;
+}
+.co{
+    font-size: 24px;
+    
+}
+#vo{
+    background:black;
+    color:white;
+    font-size: 24px;
+    
+    border-radius: 3px;
+}
+#vo:hover{
+    font-size:27px;
+}
+
+div{
+    background: #D6DBDF ;
+    width: 230px;
+    float: left;
+    border:#2C3E50  solid;
+}
+#m{
+    width: 90px;
+}
+.q{
+    color:black;
+}
+h1{
+    text-align: center;
+    color:#D6DBDF  ;
+    font-size: 34px;
+    text-shadow: 1px 2px 3px black;
+    
+}
+h2{
+    color:#D6DBDF ;
+}
+h3{
+    color:#D6DBDF ;
+    font-size: 23px;
+    text-align: center;
+    padding:5px;
+   border-bottom: solid;
+}
+h4{
+    font-size: 25px;
+    color:#D6DBDF ;
+}
+a{
+    text-decoration: none;
+    color:#D6DBDF ;
+}
+a:hover{
+    font-size: 27px;
+    background:black;
+    color:white;
+}
+p{
+    font-size: 17px;
+    color:#C70039;
+    border-left: #C70039 solid;
+}
+
+li{
+   list-style: none;
+    text-decoration: none;
+    border-bottom: solid;
+    padding: 5px;
+    padding-right: 10px;
+}
